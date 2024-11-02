@@ -1,2 +1,3 @@
-## This is a 1f2d april fools map in 2022.
-This is a free download to see what players mannaged to do.
+## 1f2d April Fools Map
+This is a free .zip file of the 2022 1f2d Server April Fools Map.
+The map is public, allowing anyone to view the destruction that took place on that day.
